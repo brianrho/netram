@@ -1,3 +1,6 @@
+/* Written by Brian Ejike (2019)
+ * Distributed under the MIT License */
+ 
 #ifndef NETRAM_H_
 #define NETRAM_H_
 

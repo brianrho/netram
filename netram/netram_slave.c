@@ -1,3 +1,6 @@
+/* Written by Brian Ejike (2019)
+ * Distributed under the MIT License */
+ 
 #include <unistd.h>
 #include <stdio.h>
 #include <signal.h>

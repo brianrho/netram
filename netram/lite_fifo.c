@@ -1,3 +1,6 @@
+/* Written by Brian Ejike (2019)
+ * Distributed under the MIT License */
+ 
 #include <string.h>
 #include "lite_fifo.h"
 

@@ -1,3 +1,6 @@
+/* Written by Brian Ejike (2019)
+ * Distributed under the MIT License */
+ 
 #ifndef LITE_FIFO_H
 #define LITE_FIFO_H
 
